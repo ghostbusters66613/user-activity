@@ -1,0 +1,9 @@
+{
+  "parser": {
+    "input_data_path": "/app/data/input/dataset.json",
+    "output_path": "/app/data/output/events"
+  },
+  "statistics": {
+    "input_data_path": "/app/data/output/events"
+  }
+}
